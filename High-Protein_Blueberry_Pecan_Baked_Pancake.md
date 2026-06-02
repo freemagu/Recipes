@@ -3,7 +3,7 @@ id: high-protein-blueberry-pecan-baked-pancake
 title: "High-Protein Blueberry Pecan Baked Pancake"
 diet_type: animal-based
 primary_protein: eggs + whey
-servings: 1
+servings: 2
 calories: 1005
 protein_g: 97
 fat_g: 44
@@ -16,17 +16,17 @@ source: bear
 
 # High-Protein Blueberry Pecan Baked Pancake
 
-> Single-serve baked protein pancake with blueberries and pecans.
+> Baked protein pancake with blueberries and pecans.
 
 ## Nutrition
 
-| Macro    | Whole recipe | Per serving (÷1) |
+| Macro    | Whole recipe | Per serving (÷2) |
 | -------- | ------------ | ---------------- |
-| Calories | 1005         | 1005             |
-| Protein  | 97 g         | 97 g             |
-| Fat      | 44 g         | 44 g             |
-| Carbs    | 59 g         | 59 g             |
-| Sugar    | 37 g         | 37 g             |
+| Calories | 1005         | 503              |
+| Protein  | 97 g         | 49 g             |
+| Fat      | 44 g         | 22 g             |
+| Carbs    | 59 g         | 30 g             |
+| Sugar    | 37 g         | 19 g             |
 
 ## Ingredients
 
