@@ -3,7 +3,7 @@ id: healthy-egg-custard
 title: "Healthy Egg Custard"
 diet_type: animal-based
 primary_protein: eggs + whey
-servings: 4
+servings: 2
 calories: 525
 protein_g: 59
 fat_g: 28
@@ -22,17 +22,17 @@ tags: [dessert, high-protein, animal-based]
 
 ## Nutrition
 
-| Macro    | Whole recipe | Per serving (÷4) |
+| Macro    | Whole recipe | Per serving (÷2) |
 | -------- | ------------ | ---------------- |
-| Calories | 525          | 131              |
-| Protein  | 59 g         | 15 g             |
-| Fat      | 28 g         | 7 g              |
-| Carbs    | 11 g         | 3 g              |
-| Sugar    | 10 g         | 3 g              |
+| Calories | 525          | 263              |
+| Protein  | 59 g         | 30 g             |
+| Fat      | 28 g         | 14 g             |
+| Carbs    | 11 g         | 6 g              |
+| Sugar    | 10 g         | 5 g              |
 
 ## Ingredients
 
-- [ ] 4 eggs
+- [x] 4 eggs
 - [ ] 200 ml milk
 - [ ] 30 g whey protein
 - [ ] 1 tsp gelatin
