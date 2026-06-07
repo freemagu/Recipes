@@ -20,6 +20,7 @@ A list of all recipes in this folder.
 - [Guy's Beef-Only Burger Patties](Guys_Beef_Only_Burger_Patties.md)
 - [Guy's Liver Burgers](Guys_Liver_Burgers.md)
 - [Healthy Egg Custard](Healthy_Egg_Custard.md)
+- [Healthy Egg Custard with Greek Yoghurt](Healthy_Egg_Custard_With_Greek_Yoghurt.md)
 - [High-Protein Blueberry Pecan Baked Pancake](High-Protein_Blueberry_Pecan_Baked_Pancake.md)
 - [High-Protein Chocolate Greek Yoghurt Ice Cream](High-Protein_Chocolate_Greek_Yoghurt_Ice_Cream.md)
 - [High-Protein Pancakes](High-Protein_Pancakes.md)
