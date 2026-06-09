@@ -28,6 +28,12 @@ source: bear
 | Carbs    | 59 g         | 30 g             |
 | Sugar    | 37 g         | 19 g             |
 
+## Nutrition calculation notes
+
+- Egg white powder based on label: 70 kcal, 15 g protein, 0 g fat, 1 g carbs, 0 g sugar per 19 g.
+- Fat-free Greek yoghurt based on label: 56 kcal, 8.5 g protein, 0 g fat, 5.5 g carbs, 5.5 g sugar per 100 g.
+- Collagen powder and remaining ingredients retain the existing recipe estimates.
+
 ## Ingredients
 
 - [ ] 1 large banana
@@ -35,7 +41,7 @@ source: bear
 - [ ] 43 g vanilla whey isolate protein powder
 - [ ] 10 g egg white powder
 - [ ] 12 g collagen powder
-- [ ] 120 g fat-free Greek yogurt
+- [ ] 120 g fat-free Greek yoghurt
 - [ ] ~30 ml milk (splash)
 - [ ] 100 g blueberries
 - [ ] 30 g pecans
@@ -44,12 +50,12 @@ source: bear
 
 ## Method
 
-- [ ] 1 — Preheat oven to 160°C.
-- [ ] 2 — Add banana, eggs, whey isolate, egg white powder, collagen powder, Greek yogurt, and milk into a blender.
-- [ ] 3 — Blend until smooth.
-- [ ] 4 — Stir in chopped pecans.
-- [ ] 5 — Pour mixture into a lightly greased baking dish.
-- [ ] 6 — Bake for 8–10 minutes.
-- [ ] 7 — Remove from oven and scatter blueberries on top.
-- [ ] 8 — Return to oven and bake another 8–12 minutes until centre is just set.
-- [ ] 9 — Rest for 5 minutes before serving.
+- [ ] 1 - Preheat oven to 160°C.
+- [ ] 2 - Add banana, eggs, whey isolate, egg white powder, collagen powder, Greek yoghurt, and milk into a blender.
+- [ ] 3 - Blend until smooth.
+- [ ] 4 - Stir in chopped pecans.
+- [ ] 5 - Pour mixture into a lightly greased baking dish.
+- [ ] 6 - Bake for 8-10 minutes.
+- [ ] 7 - Remove from oven and scatter blueberries on top.
+- [ ] 8 - Return to oven and bake another 8-12 minutes until centre is just set.
+- [ ] 9 - Rest for 5 minutes before serving.
