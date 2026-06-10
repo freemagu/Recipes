@@ -16,6 +16,7 @@ A list of all recipes in this folder.
 - [Carnivore Lasagna](Carnivore_Lasagna.md)
 - [Chicken Frittata](Chicken_Frittata.md)
 - [Coconut White Chocolate PB2 Cloud Bread](Coconut_White_Chocolate_PB2_Cloud_Bread.md)
+- [Coconut White Chocolate PB2 Cloud Bread with Egg Yolks and Dark Chocolate](Coconut_White_Chocolate_PB2_Cloud_Bread_With_Egg_Yolks_And_Dark_Chocolate.md)
 - [Cottage Pie](Cottage_Pie.md)
 - [Ginger Turmeric Lemon Cubes](Ginger_Turmeric_Lemon_Cubes.md)
 - [Guy's Beef-Only Burger Patties](Guys_Beef_Only_Burger_Patties.md)
