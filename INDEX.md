@@ -15,6 +15,7 @@ A list of all recipes in this folder.
 - [Bolognese Sauce (Low Carb)](Bolognese_Sauce_Low_Carb.md)
 - [Carnivore Lasagna](Carnivore_Lasagna.md)
 - [Chicken Frittata](Chicken_Frittata.md)
+- [Coconut White Chocolate PB2 Cloud Bread](Coconut_White_Chocolate_PB2_Cloud_Bread.md)
 - [Cottage Pie](Cottage_Pie.md)
 - [Ginger Turmeric Lemon Cubes](Ginger_Turmeric_Lemon_Cubes.md)
 - [Guy's Beef-Only Burger Patties](Guys_Beef_Only_Burger_Patties.md)
