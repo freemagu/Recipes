@@ -50,3 +50,4 @@ A list of all recipes in this folder.
 - [Salmon and avocado](Salmon_and_avocado.md)
 - [Steak and Chips Air Fryer](Steak_and_Chips_Air_Fryer.md)
 - [Vanilla Panna Cotta with Light Pomegranate Glaze](Vanilla_Panna_Cotta.md)
+- [Zucchini Sandwich Buns](Zucchini_Sandwich_Buns.md)
