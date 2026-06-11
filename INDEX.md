@@ -25,6 +25,7 @@ A list of all recipes in this folder.
 - [Healthy Egg Custard with Greek Yoghurt](Healthy_Egg_Custard_With_Greek_Yoghurt.md)
 - [High-Protein Blueberry Pecan Baked Pancake](High-Protein_Blueberry_Pecan_Baked_Pancake.md)
 - [High-Protein Blueberry Pecan Baked Pancake (Cottage Cheese Version)](High-Protein_Blueberry_Pecan_Baked_Pancake_Cottage_Cheese.md)
+- [High-Protein Blueberry Pecan Baked Pancake (Cottage Cheese Version)](High-Protein_Blueberry_Pecan_Baked_Pancake_Cottage_Cheese.md)
 - [High-Protein Chocolate Greek Yoghurt Ice Cream](High-Protein_Chocolate_Greek_Yoghurt_Ice_Cream.md)
 - [High-Protein Pancakes](High-Protein_Pancakes.md)
 - [Instant Pot Chicken + Stock](Instant_Pot_Chicken_And_Stock.md)
