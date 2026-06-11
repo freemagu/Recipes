@@ -48,6 +48,7 @@ A list of all recipes in this folder.
 - [Roasted Pumpkin Soup With Smoked Pork](Roasted_Pumpkin_Soup_With_Smoked_Pork.md)
 - [Rösti, Lardons, and Eggs](Rosti_Lardons_and_Eggs.md)
 - [Salmon and avocado](Salmon_and_avocado.md)
+- [Simple Lamb Burgers](Simple_Lamb_Burgers.md)
 - [Steak and Chips Air Fryer](Steak_and_Chips_Air_Fryer.md)
 - [Vanilla Panna Cotta with Light Pomegranate Glaze](Vanilla_Panna_Cotta.md)
 - [Zucchini Sandwich Buns](Zucchini_Sandwich_Buns.md)
