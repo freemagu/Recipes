@@ -10,7 +10,7 @@ Every recipe is one `.md` file in the repo root.
 ## File naming
 
 - One recipe per file, named with underscores instead of spaces, e.g.
-  `Akis_Moroccan_Chicken.md`, `High-Protein_Pancakes.md`.
+  `Akis_Moroccan_Chicken.md`, `Lemon_Greek_Yoghurt_Cake.md`.
 - The human-facing name lives in the `title` field; the machine key lives in
   `id` (see below). The filename is not parsed for data.
 
