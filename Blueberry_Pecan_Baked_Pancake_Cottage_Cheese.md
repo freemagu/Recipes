@@ -1,6 +1,6 @@
 ---
 id: high-protein-blueberry-pecan-baked-pancake-cottage-cheese
-title: "High-Protein Blueberry Pecan Baked Pancake (Cottage Cheese Version)"
+title: "Blueberry Pecan Baked Pancake (Cottage Cheese)"
 diet_type: animal-based
 primary_protein: eggs + whey + egg white powder + cottage cheese
 servings: 2
@@ -14,7 +14,7 @@ tags: [breakfast, high-protein, animal-based, feeding-day, oven, cottage-cheese]
 source: bear
 ---
 
-# High-Protein Blueberry Pecan Baked Pancake (Cottage Cheese Version)
+# Blueberry Pecan Baked Pancake (Cottage Cheese)
 
 > Baked protein pancake with blueberries, pecans, Greek yoghurt, and cottage cheese.
 

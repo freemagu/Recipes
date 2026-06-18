@@ -1,6 +1,6 @@
 ---
 id: oh-high-protein-macchiato-drink
-title: "Oh! High Protein Macchiato Drink"
+title: "Macchiato"
 diet_type: other
 primary_protein: milk protein
 servings: 1
@@ -14,7 +14,7 @@ tags: [breakfast, drink, high-protein]
 source: packaged-product
 ---
 
-# Oh! High Protein Macchiato Drink
+# Macchiato
 
 ## Ingredients
 

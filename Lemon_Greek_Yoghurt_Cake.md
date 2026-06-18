@@ -1,6 +1,6 @@
 ---
 id: flourless-lemon-greek-yoghurt-cake
-title: "Flourless Lemon Greek Yoghurt Cake"
+title: "Lemon Greek Yoghurt Cake"
 diet_type: low_carb
 primary_protein: greek_yoghurt
 servings: 8
@@ -18,7 +18,7 @@ tags:
 source: chatgpt
 ---
 
-# Flourless Lemon Greek Yoghurt Cake
+# Lemon Greek Yoghurt Cake
 
 A moist, lemony cake that tastes somewhere between lemon drizzle cake and lemon cheesecake when served chilled.
 

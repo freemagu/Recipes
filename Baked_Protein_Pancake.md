@@ -1,6 +1,6 @@
 ---
 id: large-baked-protein-pancake-batch
-title: "Large Baked Protein Pancake Batch"
+title: "Baked Protein Pancake"
 diet_type: animal-based
 primary_protein: eggs + whey
 servings: 6
@@ -16,7 +16,7 @@ cook_time_min: 20
 tags: [breakfast, batch-cook, high-protein, animal-based]
 ---
 
-# Large Baked Protein Pancake Batch
+# Baked Protein Pancake
 
 > Meal prep breakfast - very high protein. Batch cooks for the week.
 

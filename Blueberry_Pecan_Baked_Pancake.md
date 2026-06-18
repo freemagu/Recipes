@@ -1,6 +1,6 @@
 ---
 id: high-protein-blueberry-pecan-baked-pancake
-title: "High-Protein Blueberry Pecan Baked Pancake"
+title: "Blueberry Pecan Baked Pancake"
 diet_type: animal-based
 primary_protein: eggs + whey
 servings: 2
@@ -14,7 +14,7 @@ tags: [breakfast, high-protein, animal-based, feeding-day, oven]
 source: bear
 ---
 
-# High-Protein Blueberry Pecan Baked Pancake
+# Blueberry Pecan Baked Pancake
 
 > Baked protein pancake with blueberries and pecans.
 

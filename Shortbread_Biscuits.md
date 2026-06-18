@@ -1,6 +1,6 @@
 ---
 id: light-shortbread-biscuits
-title: "Light Shortbread Biscuits"
+title: "Shortbread Biscuits"
 diet_type: dessert
 primary_protein: none
 servings: 12
@@ -14,7 +14,7 @@ tags: [dessert, treat, oven]
 source: bear
 ---
 
-# Light Shortbread Biscuits
+# Shortbread Biscuits
 
 > Light, crisp shortbread biscuits to serve alongside panna cotta.
 

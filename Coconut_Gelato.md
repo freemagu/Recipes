@@ -1,6 +1,6 @@
 ---
 id: keto-friendly-coconut-gelato-with-toasted-coconut-flakes
-title: "Keto-Friendly Coconut Gelato with Toasted Coconut Flakes"
+title: "Coconut Gelato"
 diet_type: keto
 primary_protein: none
 servings: 4
@@ -14,7 +14,7 @@ tags: [dessert, keto, treat]
 source: bear
 ---
 
-# Keto-Friendly Coconut Gelato with Toasted Coconut Flakes
+# Coconut Gelato
 
 > Keto coconut gelato with toasted coconut flakes.
 

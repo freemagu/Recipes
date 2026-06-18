@@ -1,6 +1,6 @@
 ---
 id: healthy-egg-custard
-title: "Healthy Egg Custard"
+title: "Egg Custard"
 diet_type: animal-based
 primary_protein: eggs + whey
 servings: 2
@@ -16,7 +16,7 @@ cook_time_min: 30
 tags: [dessert, high-protein, animal-based]
 ---
 
-# Healthy Egg Custard
+# Egg Custard
 
 > High-protein dessert. Sweetened with monk fruit / erythritol so sugar stays near zero.
 

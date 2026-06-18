@@ -1,6 +1,6 @@
 ---
 id: vanilla-panna-cotta-with-light-pomegranate-glaze
-title: "Vanilla Panna Cotta with Light Pomegranate Glaze"
+title: "Vanilla Panna Cotta"
 diet_type: dessert
 primary_protein: none
 servings: 3
@@ -14,7 +14,7 @@ tags: [dessert, treat]
 source: bear
 ---
 
-# Vanilla Panna Cotta with Light Pomegranate Glaze
+# Vanilla Panna Cotta
 
 > Vanilla panna cotta with a light pomegranate glaze.
 

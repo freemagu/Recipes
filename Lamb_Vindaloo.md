@@ -1,6 +1,6 @@
 ---
 id: lamb-vindaloo-goan-style
-title: "Lamb Vindaloo (Goan Style)"
+title: "Lamb Vindaloo"
 diet_type: paleo
 primary_protein: lamb shoulder
 servings: 6
@@ -14,7 +14,7 @@ tags: [dinner, sous-vide, batch-cook]
 source: bear
 ---
 
-# Lamb Vindaloo (Goan Style)
+# Lamb Vindaloo
 
 > Goan-style lamb vindaloo with sous-vide shoulder - no tomato, coconut, or cream.
 

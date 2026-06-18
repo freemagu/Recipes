@@ -1,6 +1,6 @@
 ---
 id: high-protein-chocolate-greek-yoghurt-ice-cream
-title: "High-Protein Chocolate Greek Yoghurt Ice Cream"
+title: "Chocolate Greek Yoghurt Ice Cream"
 diet_type: animal-based
 primary_protein: greek yoghurt + whey
 servings: 2
@@ -17,7 +17,7 @@ freeze_time_min: 120
 tags: [dessert, high-protein, animal-based]
 ---
 
-# High-Protein Chocolate Greek Yoghurt Ice Cream
+# Chocolate Greek Yoghurt Ice Cream
 
 > High-protein dessert. Replaces normal ice cream.
 

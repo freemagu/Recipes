@@ -1,6 +1,6 @@
 ---
 id: simple-lamb-burgers
-title: "Simple Lamb Burgers"
+title: "Lamb Burgers"
 diet_type: low-carb
 primary_protein: lamb
 servings: 6
@@ -18,7 +18,7 @@ tags:
 source: chatgpt
 ---
 
-# Simple Lamb Burgers
+# Lamb Burgers
 
 Six lamb burgers made from 600g minced lamb. Cooked with a light spray of avocado oil.
 

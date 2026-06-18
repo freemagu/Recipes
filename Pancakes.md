@@ -1,6 +1,6 @@
 ---
 id: high-protein-pancakes
-title: "High-Protein Pancakes"
+title: "Pancakes"
 diet_type: animal-based
 primary_protein: eggs + whey
 servings: 1
@@ -16,7 +16,7 @@ cook_time_min: 10
 tags: [breakfast, high-protein, animal-based, feeding-day]
 ---
 
-# High-Protein Pancakes
+# Pancakes
 
 > High-protein breakfast or meal prep. Good for feeding days or training days.
 

@@ -1,6 +1,6 @@
 ---
 id: no-bake-lemonlime-cheesecake-with-berries
-title: "No-Bake Lemon–Lime Cheesecake with Berries"
+title: "Lemon-Lime Cheesecake"
 diet_type: dessert
 primary_protein: none
 servings: 9
@@ -14,7 +14,7 @@ tags: [dessert, treat]
 source: bear
 ---
 
-# No-Bake Lemon–Lime Cheesecake with Berries
+# Lemon-Lime Cheesecake
 
 > No-bake lemon-lime cheesecake topped with fresh berries.
 

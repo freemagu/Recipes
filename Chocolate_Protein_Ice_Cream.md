@@ -1,6 +1,6 @@
 ---
 id: keto-chocolate-protein-ice-cream-butter-edition
-title: "Keto Chocolate Protein Ice Cream (Butter Edition)"
+title: "Chocolate Protein Ice Cream"
 diet_type: keto
 primary_protein: whey
 servings: 2
@@ -14,7 +14,7 @@ tags: [dessert, keto, high-protein, ninja-creami, treat]
 source: bear
 ---
 
-# Keto Chocolate Protein Ice Cream (Butter Edition)
+# Chocolate Protein Ice Cream
 
 > Keto chocolate protein ice cream for the Ninja Creami, enriched with butter.
 

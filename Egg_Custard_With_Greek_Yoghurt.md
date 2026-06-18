@@ -1,6 +1,6 @@
 ---
 id: healthy-egg-custard-with-greek-yoghurt
-title: "Healthy Egg Custard with Greek Yoghurt"
+title: "Egg Custard with Greek Yoghurt"
 diet_type: animal-based
 primary_protein: eggs + Greek yoghurt + whey
 servings: 2
@@ -16,7 +16,7 @@ cook_time_min: 30
 tags: [dessert, high-protein, animal-based, yoghurt]
 ---
 
-# Healthy Egg Custard with Greek Yoghurt
+# Egg Custard with Greek Yoghurt
 
 > High-protein dessert made with fat-free Greek yoghurt instead of milk. Sweetened with monk fruit / erythritol so sugar stays near zero.
 
