@@ -50,6 +50,6 @@ A list of all recipes in this folder.
 - [Rösti, Lardons, and Eggs](Rosti_Lardons_and_Eggs.md)
 - [Salmon and avocado](Salmon_and_avocado.md)
 - [Shortbread Biscuits](Shortbread_Biscuits.md)
-- [Steak and Chips Air Fryer](Steak_And_Chips_Air_Fryer.md)
+- [Steak and Chips Air Fryer](Steak_and_Chips_Air_Fryer.md)
 - [Vanilla Panna Cotta](Vanilla_Panna_Cotta.md)
 - [Zucchini Sandwich Buns](Zucchini_Sandwich_Buns.md)
