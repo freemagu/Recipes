@@ -18,6 +18,7 @@ A list of all recipes in this folder.
 - [Bolognese Sauce (Low Carb)](Bolognese_Sauce_Low_Carb.md)
 - [Carnivore Lasagna](Carnivore_Lasagna.md)
 - [Chicken Frittata](Chicken_Frittata.md)
+- [Chocolate Chip Cookie Dough Bites](Chocolate_Chip_Cookie_Dough_Bites.md)
 - [Chocolate Greek Yoghurt Ice Cream](Chocolate_Greek_Yoghurt_Ice_Cream.md)
 - [Chocolate Protein Ice Cream](Chocolate_Protein_Ice_Cream.md)
 - [Coconut Gelato](Coconut_Gelato.md)
