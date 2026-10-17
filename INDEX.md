@@ -42,6 +42,7 @@ A list of all recipes in this folder.
 - [Mexican Pulled Brisket (Instant Pot)](Mexican_Pulled_Brisket_Instant_Pot.md)
 - [Morning coffee with cream](Morning_coffee_with_cream.md)
 - [Pancakes](Pancakes.md)
+- [Peanut Butter Crunch Bars](Peanut_Butter_Crunch_Bars.md)
 - [Popcorn Ice Cream with Caramel Swirls](Popcorn_Ice_Cream_With_Caramel_Swirls.md)
 - [Premium Salted Pistachio Gelato](Premium_Salted_Pistachio_Gelato.md)
 - [Pork Sausages](Pork_Sausages.md)
